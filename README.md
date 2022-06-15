@@ -1,5 +1,7 @@
-# INVENTORY-MANAGEMENT-USING-BLOCKCHAIN
+# INVENTORY-MANAGEMENT-USING-BLOCKCHAIN  
+
 INVENTORY MANAGEMENT USING BLOCKCHAIN :-  
+
 Considering (A)warehouses, (B)manufacturers, (C)suppliers and production sites, (D)distribution centers and retail partners as multiple parameters, Now using Blockchain, to connect to each other through a permanent record of every transaction that takes place, Trusted transactions with validation and non-repudiation.  
 All the records are then stored and accessible to everyone within the network resulting to Tamper-evident transaction history, providing a better relationship with manufacturers/supplier.  
 With transparency, manufacturers are better able to manage product origins, traceability, potential recalls and perishable goods. Manufacturers can actually see consumer-level demand in near real time, allowing them to forecast demand accurately and plan manufacturing and replenishment. Also Cryptographic proof of trust among peers replaces intermediaries.  
